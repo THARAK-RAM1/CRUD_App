@@ -89,3 +89,6 @@ Feature	How-To
 ✅ Add Task	Enter a task name in the input field → Click “Add Task”
 📃 View Tasks	Added tasks appear in the list below
 ❌ Delete Task	Tap the red ❌ icon next to the task
+
+![Todo App Screenshot](https://github.com/THARAK-RAM1/CRUD_App/blob/master/Screenshot%202025-07-01%20104311.png)
+![Swagger Api Page Screenshot](https://github.com/THARAK-RAM1/CRUD_App/blob/master/Screenshot%202025-07-01%20104333.png)
