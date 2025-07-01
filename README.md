@@ -90,7 +90,6 @@ Feature	How-To
 📃 View Tasks	Added tasks appear in the list below
 ❌ Delete Task	Tap the red ❌ icon next to the task
 
-![Todo App Screenshot](https://raw.githubusercontent.com/THARAK-RAM1/CRUD_App/master/app.png)
-
-![Swagger Api Page Screenshot](https://raw.githubusercontent.com/THARAK-RAM1/CRUD_App/master/swagger.png)
+![App UI](./app.png)
+![Swagger](./swagger.png)
 
