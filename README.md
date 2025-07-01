@@ -93,4 +93,8 @@ Feature	How-To
 ![App UI](https://raw.githubusercontent.com/THARAK-RAM1/CRUD_App/refs/heads/master/app.png)
 ![Swagger](https://raw.githubusercontent.com/THARAK-RAM1/CRUD_App/refs/heads/master/swagger.png)
 
+<p align="center">
+<img src="./app.png">
+</p>
+
 
