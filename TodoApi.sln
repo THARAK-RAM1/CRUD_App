@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi\TodoApi.csproj", "{49FCD8D0-5368-4BBF-8736-1141C7F6EC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoMauiApp", "TodoMauiApp\TodoMauiApp.csproj", "{B27ED14E-EE4C-4CCA-8D31-D6C262B49FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FCD8D0-5368-4BBF-8736-1141C7F6EC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FCD8D0-5368-4BBF-8736-1141C7F6EC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FCD8D0-5368-4BBF-8736-1141C7F6EC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FCD8D0-5368-4BBF-8736-1141C7F6EC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27ED14E-EE4C-4CCA-8D31-D6C262B49FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27ED14E-EE4C-4CCA-8D31-D6C262B49FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27ED14E-EE4C-4CCA-8D31-D6C262B49FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27ED14E-EE4C-4CCA-8D31-D6C262B49FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4106D03B-C029-4F1B-976A-0B7B3054579D}
+	EndGlobalSection
+EndGlobal
