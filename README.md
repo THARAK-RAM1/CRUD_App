@@ -93,5 +93,9 @@ Feature	How-To
 ![App UI](https://raw.githubusercontent.com/THARAK-RAM1/CRUD_App/master/app.png)
 ![Swagger](https://raw.githubusercontent.com/THARAK-RAM1/CRUD_App/master/swagger.png)
 
+1. **Clone the repo**:
 
+   ```bash
+   git clone https://github.com/<your-username>/SRE-Task.git
+   cd SRE-Task/Question-1/Azure_SRE_Storage
 
